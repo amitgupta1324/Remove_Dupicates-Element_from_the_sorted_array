@@ -11,6 +11,6 @@ if(nums[r]!=nums[r-1]){
     l++;
     }
 }
-return l;
+return l; 
     }
 };
